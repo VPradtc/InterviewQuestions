@@ -1,0 +1,20 @@
+SQL (MSSQL) / NOSQL(Mongo)
+Entity Framework / ADO / Nhibernate
+ASP.NET (Core, MVC, Web API, Katana)
+Performance profiler(SQL Pofiler, VS Profiler, RedGate)
+
+REST/SOAP/WSDL/XML/XSD
+Testing Framework (XUnit/NUnit/jasmine/protractor)
+IoC Container (NInject, Unity, Autofac)
+
+MVVM Framework(React/ngJs/ng.io/ko/VueJS)
+CSS/HTML
+Sass/Less/Scss
+JS Transpilers(TS/Babel/JSX/Dart)
+Node.JS infrastructure (npm, bower, Gulp/Grunt, Webpack)
+Module loader (AMD/require.js/SystemJS/CommonJS)
+
+CI(Jenkins/TeamCity/Docker)
+Source Control (Git/Tfs/Svn)
+Task Tracker(Tfs/Jira)
+Traffic sniffer(WireShark/Fiddler) OR REST Client (Postman)
